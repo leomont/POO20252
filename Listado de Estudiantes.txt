@@ -1,1 +1,3 @@
-Nombre| Codigo| Experiencia en Programacion
+Nombre		| Codigo	| Experiencia en Programacion
+
+Leonardo Montes | 170000000000  | Si

@@ -1,3 +1,4 @@
-Nombre		| Codigo	| Experiencia en Programacion
+Nombre				| Codigo	| Experiencia en Programacion
 
-Leonardo Montes | 170000000000  | Si
+Leonardo Montes 		| 170000000000  | Si
+Alejandro Piedrahita		| 67007  	| Si
